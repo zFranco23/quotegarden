@@ -1,0 +1,27 @@
+{
+  "files": {
+    "static/js/0.42c7577e.chunk.js": "/quotegarden/static/js/0.42c7577e.chunk.js",
+    "static/js/0.42c7577e.chunk.js.map": "/quotegarden/static/js/0.42c7577e.chunk.js.map",
+    "main.css": "/quotegarden/static/css/main.8b247867.chunk.css",
+    "main.js": "/quotegarden/static/js/main.b61daac3.chunk.js",
+    "main.js.map": "/quotegarden/static/js/main.b61daac3.chunk.js.map",
+    "runtime-main.js": "/quotegarden/static/js/runtime-main.a9c60a96.js",
+    "runtime-main.js.map": "/quotegarden/static/js/runtime-main.a9c60a96.js.map",
+    "static/js/3.ff6a4fb2.chunk.js": "/quotegarden/static/js/3.ff6a4fb2.chunk.js",
+    "static/js/3.ff6a4fb2.chunk.js.map": "/quotegarden/static/js/3.ff6a4fb2.chunk.js.map",
+    "static/js/4.1f813064.chunk.js": "/quotegarden/static/js/4.1f813064.chunk.js",
+    "static/js/4.1f813064.chunk.js.map": "/quotegarden/static/js/4.1f813064.chunk.js.map",
+    "static/js/5.07c8eccc.chunk.js": "/quotegarden/static/js/5.07c8eccc.chunk.js",
+    "static/js/5.07c8eccc.chunk.js.map": "/quotegarden/static/js/5.07c8eccc.chunk.js.map",
+    "index.html": "/quotegarden/index.html",
+    "static/css/main.8b247867.chunk.css.map": "/quotegarden/static/css/main.8b247867.chunk.css.map",
+    "static/js/0.42c7577e.chunk.js.LICENSE.txt": "/quotegarden/static/js/0.42c7577e.chunk.js.LICENSE.txt",
+    "static/js/3.ff6a4fb2.chunk.js.LICENSE.txt": "/quotegarden/static/js/3.ff6a4fb2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9c60a96.js",
+    "static/js/3.ff6a4fb2.chunk.js",
+    "static/css/main.8b247867.chunk.css",
+    "static/js/main.b61daac3.chunk.js"
+  ]
+}
